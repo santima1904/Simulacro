@@ -51,6 +51,7 @@ public class Afiliados {
     private int categoria;
     public Nivel nivelActividad;
 
+
     //Constructor por defecto
     public Afiliados(){
         this.identificador = 1111;
